@@ -40,7 +40,8 @@ work on services like AWS Lambda, SNS, CloudWatch (Events), Tidal.
 CloudFormation Templates, CI/CD. Worked in YAML, Shell; and services like IAM, CloudFormation,
 CloudWatch Events, Tidal, SNS, Git, Jenkins.  
 
-#### Wipro Bangalore, India \t Senior Software Engineer December 2019 – November 2020
+#### Wipro Bangalore, India
+##### Senior Software Engineer December 2019 – November 2020
 ● Worked on multiple REST APIs in Java-11, Spring Boot, designed with Swagger, for MUFG Union Bank,
 USA. Got experience with tools like OpenLegacy and OpenAPI as well.  
 
@@ -88,7 +89,7 @@ cost of scalability and cost of downtime, while being reliable at the same time 
 ● Pragati - Wipro Internal Certification for Automation script for Data Analysis Report Creation - May 2019, Bangalore
 ● Pragati - Wipro Internal Certification for Automation script for Analysis Missing Client Data - July 2019, Bangalor
 
-```markdown
+<!-- ```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -114,4 +115,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out. -->
