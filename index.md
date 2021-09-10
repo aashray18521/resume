@@ -40,8 +40,7 @@ work on services like AWS Lambda, SNS, CloudWatch (Events), Tidal.
 CloudFormation Templates, CI/CD. Worked in YAML, Shell; and services like IAM, CloudFormation,
 CloudWatch Events, Tidal, SNS, Git, Jenkins.  
 
-#### Wipro Bangalore, India
-##### Senior Software Engineer December 2019 – November 2020
+#### Wipro Bangalore, India \t Senior Software Engineer December 2019 – November 2020
 ● Worked on multiple REST APIs in Java-11, Spring Boot, designed with Swagger, for MUFG Union Bank,
 USA. Got experience with tools like OpenLegacy and OpenAPI as well.  
 
