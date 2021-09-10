@@ -5,6 +5,11 @@ You can use the [editor on GitHub](https://github.com/aashray18521/resume/edit/g
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Hi! My name is Aashray Jain and I like to code.
+You can check out more about me below.
+
+[LinkedIn](https://www.linkedin.com/in/aashray-jain/)
+
+[Latest Resume](https://github.com/aashray18521/resume/raw/gh-pages/Aashray%20Jain%20Resume.pdf)
 
 ### Markdown
 
