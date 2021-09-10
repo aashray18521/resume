@@ -1,8 +1,10 @@
-## Welcome to Test Pages
+## Aashray Jain
 
 You can use the [editor on GitHub](https://github.com/aashray18521/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+Hi! My name is Aashray Jain and I like to code.
 
 ### Markdown
 
