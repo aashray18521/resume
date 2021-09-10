@@ -15,7 +15,7 @@ I like writing clean code.
 
 ## Education
 #### National Institute of Technology, Raipur 2014 – 2018
-Bachelor of Technology, Information Technology
+Bachelor of Technology, Information Technology 
 GPA – 7.52  
 
 #### All India Senior School Certificate Examination 2014
