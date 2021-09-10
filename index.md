@@ -1,6 +1,6 @@
 ## Aashray Jain
 
-Hi!  
+Hi  
 My name is Aashray Jain and I like to code.  
 You can check out more about me below.  
 
