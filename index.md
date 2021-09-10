@@ -40,12 +40,12 @@ CloudFormation Templates, CI/CD. Worked in YAML, Shell; and services like IAM, C
 CloudWatch Events, Tidal, SNS, Git, Jenkins.  
 
 #### Wipro Bangalore, India
-###### Senior Software Engineer December 2019 – November 2020
+##### Senior Software Engineer December 2019 – November 2020
 ● Worked on multiple REST APIs in Java-11, Spring Boot, designed with Swagger, for MUFG Union Bank,
 USA. Got experience with tools like OpenLegacy and OpenAPI as well.  
 
 #### Wipro Bangalore, India
-###### Project Engineer June 2018 – November 2019  
+##### Project Engineer June 2018 – November 2019  
 ● Worked on a microservice that consumes the messages from a Kafka topic, validates them, pushes them
 to a Postgres DB and schedules them to send to customers. Worked in Java, Kafka and PostgreSQL.  
 
