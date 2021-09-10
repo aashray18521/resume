@@ -1,7 +1,8 @@
 ## Aashray Jain
 
-Hi! My name is Aashray Jain and I like to code.
-You can check out more about me below.
+Hi!  
+My name is Aashray Jain and I like to code.  
+You can check out more about me below.  
 
 [LinkedIn](https://www.linkedin.com/in/aashray-jain/)
 
