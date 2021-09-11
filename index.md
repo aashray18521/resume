@@ -25,7 +25,7 @@ GPA – 7.52
 95% (CBSE)  
 
 ## Work Experience  
-#### Infosys Bangalore, India                           
+### Infosys Bangalore, India                           
 ###### Associate Consultant December 2020 – Present  
 ● Working with Ameriprise Financials to deliver Advance Insights to Financial Advisors. Solely responsible for
 delivery of multiple GraphQL APIs, under guidance of Senior Architect, which interact with DynamoDB and
@@ -41,12 +41,12 @@ work on services like AWS Lambda, SNS, CloudWatch (Events), Tidal.
 CloudFormation Templates, CI/CD. Worked in YAML, Shell; and services like IAM, CloudFormation,
 CloudWatch Events, Tidal, SNS, Git, Jenkins.  
 
-#### Wipro Bangalore, India
+### Wipro Bangalore, India
 ##### Senior Software Engineer December 2019 – November 2020
 ● Worked on multiple REST APIs in Java-11, Spring Boot, designed with Swagger, for MUFG Union Bank,
 USA. Got experience with tools like OpenLegacy and OpenAPI as well.  
 
-#### Wipro Bangalore, India
+### Wipro Bangalore, India
 ##### Project Engineer June 2018 – November 2019  
 ● Worked on a microservice that consumes the messages from a Kafka topic, validates them, pushes them
 to a Postgres DB and schedules them to send to customers. Worked in Java, Kafka and PostgreSQL.  
