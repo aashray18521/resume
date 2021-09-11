@@ -14,14 +14,14 @@ You can check out more about me below.
 I like writing clean code.  
 
 ## Education
-#### National Institute of Technology, Raipur 2014 – 2018
+### National Institute of Technology, Raipur 2014 – 2018
 Bachelor of Technology, Information Technology 
 GPA – 7.52  
 
-#### All India Senior School Certificate Examination 2014
+### All India Senior School Certificate Examination 2014
 84.6% (CBSE)  
 
-#### All India Secondary School Certificate Examination 2012
+### All India Secondary School Certificate Examination 2012
 95% (CBSE)  
 
 ## Work Experience  
@@ -66,7 +66,7 @@ Dashboards to scrape data and generate a report. This helped reduce the cost to 
 USD/year. Received recognition in Wipro multiple times for this.  
 
 ## Projects & Publications
-#### Comprehensive Architecture of REST Services for Scale on AWS Whitepaper
+### Comprehensive Architecture of REST Services for Scale on AWS Whitepaper
 ###### Wipro Ltd., April 2020
 ● The purpose of this white paper is to help demonstrate a cloud based REST Architecture that is scalable,
 serverless and secure. This can help reduce cost of hosting on-prem servers, cost of scalability, cost of
@@ -74,7 +74,7 @@ downtime and cost of security, while being reliable at the same time to an organ
 offers an opportunity for providing an on-demand auto-scaling, persistent and secure infrastructure at
 minimal costs.  
 
-#### Serverless Event Driven Architecture Whitepaper
+### Serverless Event Driven Architecture Whitepaper
 ###### Wipro Ltd., March 2020  
 ● The purpose of this white paper is to help demonstrate a server less Event Driven Architecture that is
 scalable, cost saving and persistent using AWS. This can help reduce cost of hosting on-prem servers,
