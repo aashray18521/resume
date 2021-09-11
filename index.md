@@ -6,7 +6,6 @@
 [Resume](https://github.com/aashray18521/resume/raw/gh-pages/Aashray%20Jain%20Resume.pdf)
 
 ---------------------------
----------------------------
 
 ## About Me
 
