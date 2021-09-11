@@ -8,7 +8,7 @@
 ## About Me
 
 I like writing clean code.  
- 
+
 ---------------------------
 ## Education
 ### National Institute of Technology, Raipur 2014 – 2018
@@ -19,7 +19,8 @@ GPA – 7.52
 84.6% (CBSE)  
 
 ### All India Secondary School Certificate Examination 2012
-95% (CBSE)   
+95% (CBSE)    
+
 -----------
 
 ## Work Experience  
@@ -63,6 +64,8 @@ Received Client appreciation for this.
 Dashboards to scrape data and generate a report. This helped reduce the cost to the client of about $28k
 USD/year. Received recognition in Wipro multiple times for this.  
 
+
+-----------
 ## Projects & Publications
 ### Comprehensive Architecture of REST Services for Scale on AWS Whitepaper
 ###### Wipro Ltd., April 2020
@@ -78,10 +81,14 @@ minimal costs.
 scalable, cost saving and persistent using AWS. This can help reduce cost of hosting on-prem servers,
 cost of scalability and cost of downtime, while being reliable at the same time to the organization.  
 
+
+-----------
 ## Skills & Interests  
 ● C/C++, Python, Java, AWS, Kafka, Jenkins, Swagger, GraphQL, REST.  
 ● Interested in Design & Architecture, Deep Learning, Computer Vision, Cloud Infrastructure.  
 
+
+-----------
 ## Achievements
 ● Lean Practitioner -  Wipro December 2019, Bangalore
 ● Awarded Archimedes For Value Addition and Cost Savings for Capital One Account - December 2019, Bangalore
