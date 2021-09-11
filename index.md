@@ -8,7 +8,7 @@
 ## About Me
 
 I like writing clean code.  
-
+---------------------------
 ## Education
 ### National Institute of Technology, Raipur 2014 – 2018
 Bachelor of Technology, Information Technology 
@@ -18,7 +18,8 @@ GPA – 7.52
 84.6% (CBSE)  
 
 ### All India Secondary School Certificate Examination 2012
-95% (CBSE)  
+95% (CBSE)   
+-----------
 
 ## Work Experience  
 ### Infosys Bangalore, India                           
