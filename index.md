@@ -88,7 +88,7 @@ cost of scalability and cost of downtime, while being reliable at the same time 
 ● Interested in Design & Architecture, Deep Learning, Computer Vision, Cloud Infrastructure.  
 
 
------------
+## -----------
 ## Achievements
 ● Lean Practitioner -  Wipro December 2019, Bangalore
 ● Awarded Archimedes For Value Addition and Cost Savings for Capital One Account - December 2019, Bangalore
