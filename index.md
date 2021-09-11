@@ -25,7 +25,7 @@ GPA – 7.52
 95% (CBSE)  
 
 ## Work Experience  
-#### Infosys Bangalore, India 
+#### Infosys Bangalore, India
 ##### Associate Consultant December 2020 – Present  
 ● Working with Ameriprise Financials to deliver Advance Insights to Financial Advisors. Solely responsible for
 delivery of multiple GraphQL APIs, under guidance of Senior Architect, which interact with DynamoDB and
