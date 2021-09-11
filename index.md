@@ -9,7 +9,7 @@ You can check out more about me below.
 [Medium](aashray18521.medium.com) || 
 [Github](https://github.com/aashray18521) 
 
-### About Me
+## About Me
 
 I like writing clean code.  
 
