@@ -87,10 +87,10 @@ cost of scalability and cost of downtime, while being reliable at the same time 
 
 -----------
 ## Achievements
-● Lean Practitioner -  Wipro December 2019, Bangalore
-● Awarded Archimedes For Value Addition and Cost Savings for Capital One Account - December 2019, Bangalore
-● Pragati - Wipro Internal Certification for Automation script for Data Analysis Report Creation - May 2019, Bangalore
-● Pragati - Wipro Internal Certification for Automation script for Analysis Missing Client Data - July 2019, Bangalor
+● Lean Practitioner -  Wipro December 2019, Bangalore  
+● Awarded Archimedes For Value Addition and Cost Savings for Capital One Account - December 2019, Bangalore  
+● Pragati - Wipro Internal Certification for Automation script for Data Analysis Report Creation - May 2019, Bangalore  
+● Pragati - Wipro Internal Certification for Automation script for Analysis Missing Client Data - July 2019, Bangalor  
 
 <!-- ```markdown
 Syntax highlighted code block
