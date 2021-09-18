@@ -1,7 +1,7 @@
 # Aashray Jain 
 
 [LinkedIn](https://www.linkedin.com/in/aashray-jain/) ||
-[Medium](aashray18521.medium.com) || 
+[Blog](https://aashray18521.medium.com) || 
 [Github](https://github.com/aashray18521) ||
 [Resume](https://github.com/aashray18521/resume/raw/gh-pages/Aashray%20Jain%20Resume.pdf) ||
 [Playlist](https://youtube.com/playlist?list=PLneyVEguHnc-g30PCDdGJUK32f_KmfZ3I)
