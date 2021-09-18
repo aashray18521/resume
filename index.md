@@ -7,11 +7,6 @@
 
 ---------------------------
 
-## About Me
-
-I like writing clean code.  
-
----------------------------
 ## Education
 #### National Institute of Technology, Raipur 2014 – 2018
 Bachelor of Technology, Information Technology 
