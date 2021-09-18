@@ -13,20 +13,20 @@ I like writing clean code.
 
 ---------------------------
 ## Education
-### National Institute of Technology, Raipur 2014 – 2018
+#### National Institute of Technology, Raipur 2014 – 2018
 Bachelor of Technology, Information Technology 
 GPA – 7.52  
 
-### All India Senior School Certificate Examination 2014
+#### All India Senior School Certificate Examination 2014
 84.6% (CBSE)  
 
-### All India Secondary School Certificate Examination 2012
+#### All India Secondary School Certificate Examination 2012
 95% (CBSE)    
 
 -----------
 
 ## Work Experience  
-### Infosys Bangalore, India                           
+#### Infosys Bangalore, India                           
 ###### Associate Consultant December 2020 – Present  
 ● Working with Ameriprise Financials to deliver Advance Insights to Financial Advisors. Solely responsible for
 delivery of multiple GraphQL APIs, under guidance of Senior Architect, which interact with DynamoDB and
@@ -42,13 +42,13 @@ work on services like AWS Lambda, SNS, CloudWatch (Events), Tidal.
 CloudFormation Templates, CI/CD. Worked in YAML, Shell; and services like IAM, CloudFormation,
 CloudWatch Events, Tidal, SNS, Git, Jenkins.  
 
-### Wipro Bangalore, India
-##### Senior Software Engineer December 2019 – November 2020
+#### Wipro Bangalore, India
+###### Senior Software Engineer December 2019 – November 2020
 ● Worked on multiple REST APIs in Java-11, Spring Boot, designed with Swagger, for MUFG Union Bank,
 USA. Got experience with tools like OpenLegacy and OpenAPI as well.  
 
-### Wipro Bangalore, India
-##### Project Engineer June 2018 – November 2019  
+#### Wipro Bangalore, India
+###### Project Engineer June 2018 – November 2019  
 ● Worked on a microservice that consumes the messages from a Kafka topic, validates them, pushes them
 to a Postgres DB and schedules them to send to customers. Worked in Java, Kafka and PostgreSQL.  
 
@@ -69,7 +69,7 @@ USD/year. Received recognition in Wipro multiple times for this.
 
 -----------
 ## Projects & Publications
-### Comprehensive Architecture of REST Services for Scale on AWS Whitepaper
+#### Comprehensive Architecture of REST Services for Scale on AWS Whitepaper
 ###### Wipro Ltd., April 2020
 ● The purpose of this white paper is to help demonstrate a cloud based REST Architecture that is scalable,
 serverless and secure. This can help reduce cost of hosting on-prem servers, cost of scalability, cost of
@@ -77,7 +77,7 @@ downtime and cost of security, while being reliable at the same time to an organ
 offers an opportunity for providing an on-demand auto-scaling, persistent and secure infrastructure at
 minimal costs.  
 
-### Serverless Event Driven Architecture Whitepaper
+#### Serverless Event Driven Architecture Whitepaper
 ###### Wipro Ltd., March 2020  
 ● The purpose of this white paper is to help demonstrate a server less Event Driven Architecture that is
 scalable, cost saving and persistent using AWS. This can help reduce cost of hosting on-prem servers,
